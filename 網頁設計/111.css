@@ -1,0 +1,131 @@
+@charset "utf-8";
+.box1 {
+	width: 1000px;
+	/* [disabled]background-color: #CCDBEC; */
+	margin-left: auto;
+	margin-right: auto;
+	text-align: left;
+}
+.box1 header h1 {
+	color: #6E5EA4;
+	font-size: 55px;
+	width: 100%;
+	height: 30px;
+	text-align: center;
+}
+article {
+	width: 100%;
+	height: auto;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+nav {
+	text-align: center;
+	text-decoration: none;
+	margin-top: auto;
+	margin-right: auto;
+	margin-bottom: auto;
+	margin-left: auto;
+	border-top-left-radius: 0px;
+
+}
+nav p a:link  {
+	color: #302679;
+	text-decoration: none;
+}
+nav p a:hover {
+	color: #C25080;
+	text-decoration: underline;
+	width: 0%;
+}
+
+.box1 header div {
+	height: 250px;
+	background-image: url(NN/000.jpg);
+	background-position: center center;
+	border-radius: 15px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+}
+#a1 {
+	width: 100%;
+	height: 30px;
+	background-color: #BCCCEF;
+	margin-left: auto;
+	margin-right: auto;
+	color: #FAFAFA;
+	text-align: center;
+	margin-top: auto;
+	margin-bottom: auto;
+}
+main article ul {
+	text-align: left;
+	border-top-right-radius: 0px;
+}
+
+
+#a2{
+	width: 100%;
+	height: 30px;
+	background-color: #BCCCEF;
+	color: #FAFAFA;
+	text-align: center;
+	text-decoration: none;
+}
+
+#a3 {
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+#a3{
+	text-align: center;
+	width: 100%;
+	height: 30px;
+	background-color: #BCCCEF;
+	margin-left: auto;
+	margin-right: auto;
+	color: #FAFAFA;
+}
+#a4{
+	text-align: center;
+	width: 100%;
+	height: 30px;
+	background-color: #BCCCEF;
+	margin-left: auto;
+	margin-right: auto;
+	color: #FAFAFA;
+}
+body article h2 {
+	text-align: center;
+	background-color: #FFFFFF;
+
+}
+body article p {
+	height: 55px;
+	background-color: #EAE4F8;
+	border-radius: 10px;
+
+}
+body article img {
+	-webkit-transition: all 1000ms ease-in-out 0s;
+	-o-transition: all 1000ms ease-in-out 0s;
+	transition: all 1000ms ease-in-out 0s;
+	padding-left: auto;
+	padding-right: auto;
+	justify-content: space-around;
+}
+body article img:hover {
+	background-color: #FFFFFF;
+	width: 480px;
+	height: 480px;
+	padding-right: auto;
+	padding-left: auto;
+	justify-content: space-between;
+	padding-top: auto;
+	padding-bottom: auto;
+	margin-right: auto;
+}
